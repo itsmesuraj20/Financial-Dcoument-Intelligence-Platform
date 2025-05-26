@@ -3,6 +3,7 @@
 ## Project Directory Structure
 
 financial-doc-intel-platform/
+```text
 │
 ├── backend/
 │   ├── api-service/              ← Spring Boot app (upload/search API)
