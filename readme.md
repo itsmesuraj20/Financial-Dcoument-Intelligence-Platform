@@ -2,7 +2,7 @@
 
 ## Project Directory Structure
 
-financial-doc-intel-platform/
+### financial-doc-intel-platform/
 ```text
 │
 ├── backend/
